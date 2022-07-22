@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @MarkoKovac153
+- 👨‍🎓 Bsc Computer Science at City, University of London
+- 👀 I’m interested in ... sports and games
+- 🌱 I’m currently learning ... unity
+- 💞️ I’m looking to collaborate on ... software development
+- 🎡 Currently looking for work ... Yes
+- ✨ Fun Fact about me ... I play football at a semi-professional level
+- 📫 How to reach me ... email {markokovac135@gmail.com}
