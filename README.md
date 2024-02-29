@@ -7,4 +7,3 @@
 - ✨ Fun Fact about me, I play football at a semi-professional level
 - ✨ Fun Fact about me, I can solve a rubiks cube in under a minute
 - 📫 My Email: markokovac135@gmail.com
-- 📱phone number: +447804909763
