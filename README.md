@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarkoKovac153
 - 👨‍🎓 Bsc Computer Science at City, University of London
 - 👀 I’m interested in technology, sports and games
-- 🌱 I’m currently learning VBA,SQL,C#
-- 📚 I’m working at the Civil Aviation Authority and am contracted through Sparta global as a Junior software Developer
+- 🌱 I’m currently learning Springboot, Java, C
+- 📚 I’m working at Sparta global as a Junior software Developer
 - 💞️ I’m looking to collaborate on software development
 - ✨ Fun Fact about me, I play football at a semi-professional level
 - ✨ Fun Fact about me, I can solve a rubiks cube in under a minute
